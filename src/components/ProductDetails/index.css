@@ -1,0 +1,29 @@
+.product-container {
+    text-align: left;
+    height: 100%;
+  }
+  .image {
+    height: 15%;
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 50px;
+  }
+  
+  .head {
+    color: #69231e;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 50px;
+  }
+  .other-details {
+    color: black;
+    font-size: 18px;
+    padding-left: 50px;
+  }
+  
+  .descr {
+    color: black;
+    font-size: 18px;
+    padding-left: 50px;
+    padding-right: 60%;
+  }

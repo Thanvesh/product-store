@@ -1,0 +1,50 @@
+.products-main-container1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+  }
+  
+  .main-container {
+    background: linear-gradient(102deg, #6cd4b9, #6cc6d4, #cf97ea, #e3addd, #930c52);
+    background-size: 1000% 1000%;
+    -webkit-animation: AnimationName 24s ease infinite;
+    -moz-animation: AnimationName 24s ease infinite;
+    -o-animation: AnimationName 24s ease infinite;
+    animation: AnimationName 24s ease infinite;
+}
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 19%}
+    50%{background-position:100% 82%}
+    100%{background-position:0% 19%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 19%}
+    50%{background-position:100% 82%}
+    100%{background-position:0% 19%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 19%}
+    50%{background-position:100% 82%}
+    100%{background-position:0% 19%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 19%}
+    50%{background-position:100% 82%}
+    100%{background-position:0% 19%}
+}
+
+
+
+
+  .main-container {
+    padding: 20px;
+    text-align: center;
+    background-color: transparent;
+  }
+  .p-heading {
+    color: navy;
+    font-size: 35px;
+    font-weight: bold;
+  }

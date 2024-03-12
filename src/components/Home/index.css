@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: aqua;
+    color: rgb(246, 244, 248);
+    width: 120px;
+    font-size: 17px;
+    border: 0px solid;
+    background-color: #000000;
+    border-radius: 10px;
+    padding: 7px;
+    
+  }
+  .link{
+    align-self: center;
+
+  }
+  
+  .heading {
+    color: navy;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 200px;
+  }
